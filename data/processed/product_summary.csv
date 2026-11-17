@@ -1,0 +1,21 @@
+product_name,product_sku,category,orders,returns,return_rate,gross_revenue,refunded_revenue,return_shipping_cost,money_lost,net_revenue,revenue_kept,avg_order_value,top_reason
+Men's Kurta — Navy,FAS-001,Fashion,88,26,29.55,259896,64974,6200,71174,194922,188722,2953.36,Wrong size
+Women's Lawn 3pc Suit,FAS-002,Fashion,96,32,33.33,451887,91977,7700,99677,359910,352210,4707.16,Wrong size
+Running Sneakers,FAS-003,Fashion,83,27,32.53,418407,98978,6400,105378,319429,313029,5041.05,Wrong size
+Kids Frock — Pink,FAS-004,Fashion,91,23,25.27,188895,35980,5450,41430,152915,147465,2075.77,Wrong size
+Wireless Earbuds,ELE-001,Electronics,83,14,16.87,281906,35988,3400,39388,245918,242518,3396.46,Wrong item sent
+Power Bank 10000mAh,ELE-002,Electronics,74,11,14.86,227409,12495,2450,14945,214914,212464,3073.09,Defective/damaged
+Smart Watch,ELE-003,Electronics,77,21,27.27,539910,83986,5050,89036,455924,450874,7011.82,Defective/damaged
+LED Bulb Pack (4 pcs),ELE-004,Electronics,67,6,8.96,82917,2997,1400,4397,79920,78520,1237.57,Defective/damaged
+Dinner Set (32 pcs),HOM-001,Home & Kitchen,54,6,11.11,454935,34995,1400,36395,419940,418540,8424.72,Quality not as expected
+Bedsheet Set — King,HOM-002,Home & Kitchen,55,1,1.82,140736,2199,250,2449,138537,138287,2558.84,Quality not as expected
+Non-stick Cookware Set,HOM-003,Home & Kitchen,60,12,20.0,364927,44991,2750,47741,319936,317186,6082.12,Quality not as expected
+Wall Clock — Wooden,HOM-004,Home & Kitchen,55,8,14.55,92938,7495,1850,9345,85443,83593,1689.78,Defective/damaged
+Face Serum 30ml,BEA-001,Beauty,42,2,4.76,94950,1899,400,2299,93051,92651,2260.71,Late delivery
+Lipstick Set (6 pcs),BEA-002,Beauty,31,3,9.68,46764,6495,800,7295,40269,39469,1508.52,Changed mind
+Shampoo 500ml,BEA-003,Beauty,43,3,6.98,44950,3596,700,4296,41354,40654,1045.35,Defective/damaged
+Perfume 50ml,BEA-004,Beauty,43,3,6.98,146951,8997,700,9697,137954,137254,3417.47,Quality not as expected
+Cricket Bat — Kashmir Willow,SPO-001,Sports,39,4,10.26,157455,10497,950,11447,146958,146008,4037.31,Wrong size
+Gym Gloves,SPO-002,Sports,43,6,13.95,47952,4995,1500,6495,42957,41457,1115.16,Changed mind
+Football — Size 5,SPO-003,Sports,42,4,9.52,97951,7996,950,8946,89955,89005,2332.17,Wrong size
+Yoga Mat 6mm,SPO-004,Sports,34,5,14.71,61459,2998,1200,4198,58461,57261,1807.62,Defective/damaged

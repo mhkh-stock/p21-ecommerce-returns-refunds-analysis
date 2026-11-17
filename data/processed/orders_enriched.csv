@@ -1,0 +1,1201 @@
+order_id,order_date,month,category,channel,product_name,product_sku,quantity,order_value_pkr,return_status,return_reason,resolution,refund_amount_pkr,return_shipping_cost_pkr,is_returned,money_lost_pkr
+ORD-0001,2026-01-01,2026-01,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0002,2026-01-01,2026-01,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-0003,2026-01-01,2026-01,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0004,2026-01-01,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0005,2026-01-01,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0006,2026-01-01,2026-01,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0007,2026-01-01,2026-01,Fashion,WhatsApp,Running Sneakers,FAS-003,2,8998,Kept,,,0,0,0,0
+ORD-0008,2026-01-01,2026-01,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-0009,2026-01-01,2026-01,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-0010,2026-01-01,2026-01,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0011,2026-01-01,2026-01,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0012,2026-01-01,2026-01,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Returned,Wrong item sent,Refunded,3499,200,1,3699
+ORD-0013,2026-01-01,2026-01,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0014,2026-01-02,2026-01,Beauty,Daraz,Shampoo 500ml,BEA-003,2,1798,Kept,,,0,0,0,0
+ORD-0015,2026-01-02,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0016,2026-01-02,2026-01,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Refunded,4499,250,1,4749
+ORD-0017,2026-01-02,2026-01,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0018,2026-01-03,2026-01,Beauty,WhatsApp,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0019,2026-01-03,2026-01,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0020,2026-01-03,2026-01,Beauty,WhatsApp,Perfume 50ml,BEA-004,2,5998,Kept,,,0,0,0,0
+ORD-0021,2026-01-03,2026-01,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Returned,Changed mind,Refunded,2999,250,1,3249
+ORD-0022,2026-01-03,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0023,2026-01-03,2026-01,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0024,2026-01-03,2026-01,Fashion,Daraz,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0025,2026-01-03,2026-01,Fashion,Facebook,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0026,2026-01-03,2026-01,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0027,2026-01-04,2026-01,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0028,2026-01-04,2026-01,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0029,2026-01-04,2026-01,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0030,2026-01-04,2026-01,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0031,2026-01-04,2026-01,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0032,2026-01-04,2026-01,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0033,2026-01-04,2026-01,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0034,2026-01-04,2026-01,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0035,2026-01-05,2026-01,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0036,2026-01-05,2026-01,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0037,2026-01-05,2026-01,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0038,2026-01-05,2026-01,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0039,2026-01-05,2026-01,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Returned,Wrong item sent,Refunded,2999,300,1,3299
+ORD-0040,2026-01-05,2026-01,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0041,2026-01-05,2026-01,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0042,2026-01-05,2026-01,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Quality not as expected,Replaced,0,250,1,250
+ORD-0043,2026-01-05,2026-01,Sports,Website,Yoga Mat 6mm,SPO-004,2,2998,Kept,,,0,0,0,0
+ORD-0044,2026-01-06,2026-01,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0045,2026-01-06,2026-01,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0046,2026-01-06,2026-01,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0047,2026-01-06,2026-01,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0048,2026-01-06,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0049,2026-01-06,2026-01,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Defective/damaged,Refunded,3999,250,1,4249
+ORD-0050,2026-01-06,2026-01,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,2,6998,Kept,,,0,0,0,0
+ORD-0051,2026-01-07,2026-01,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0052,2026-01-07,2026-01,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0053,2026-01-07,2026-01,Beauty,Daraz,Perfume 50ml,BEA-004,2,5998,Kept,,,0,0,0,0
+ORD-0054,2026-01-07,2026-01,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0055,2026-01-07,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0056,2026-01-07,2026-01,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0057,2026-01-07,2026-01,Sports,Website,Gym Gloves,SPO-002,1,999,Returned,Changed mind,Refunded,999,250,1,1249
+ORD-0058,2026-01-08,2026-01,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0059,2026-01-08,2026-01,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0060,2026-01-08,2026-01,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0061,2026-01-08,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0062,2026-01-08,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Returned,Changed mind,Refunded,2499,250,1,2749
+ORD-0063,2026-01-08,2026-01,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0064,2026-01-08,2026-01,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0065,2026-01-08,2026-01,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-0066,2026-01-08,2026-01,Sports,Facebook,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0067,2026-01-08,2026-01,Sports,WhatsApp,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0068,2026-01-09,2026-01,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0069,2026-01-09,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0070,2026-01-09,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0071,2026-01-09,2026-01,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Quality not as expected,Refunded,4499,200,1,4699
+ORD-0072,2026-01-09,2026-01,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0073,2026-01-09,2026-01,Sports,Website,Gym Gloves,SPO-002,2,1998,Kept,,,0,0,0,0
+ORD-0074,2026-01-09,2026-01,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0075,2026-01-10,2026-01,Beauty,WhatsApp,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0076,2026-01-10,2026-01,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0077,2026-01-11,2026-01,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0078,2026-01-11,2026-01,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0079,2026-01-11,2026-01,Fashion,Daraz,Running Sneakers,FAS-003,2,8998,Kept,,,0,0,0,0
+ORD-0080,2026-01-11,2026-01,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0081,2026-01-11,2026-01,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0082,2026-01-11,2026-01,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0083,2026-01-12,2026-01,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0084,2026-01-12,2026-01,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0085,2026-01-12,2026-01,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0086,2026-01-12,2026-01,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0087,2026-01-13,2026-01,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0088,2026-01-13,2026-01,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0089,2026-01-13,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0090,2026-01-13,2026-01,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0091,2026-01-13,2026-01,Sports,WhatsApp,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0092,2026-01-14,2026-01,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0093,2026-01-14,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0094,2026-01-14,2026-01,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong size,Refunded,2499,200,1,2699
+ORD-0095,2026-01-14,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Returned,Changed mind,Refunded,2499,250,1,2749
+ORD-0096,2026-01-14,2026-01,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Late delivery,Replaced,0,250,1,250
+ORD-0097,2026-01-15,2026-01,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0098,2026-01-15,2026-01,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Returned,Quality not as expected,Refunded,1799,250,1,2049
+ORD-0099,2026-01-15,2026-01,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Returned,Quality not as expected,Refunded,6999,250,1,7249
+ORD-0100,2026-01-15,2026-01,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0101,2026-01-16,2026-01,Beauty,WhatsApp,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0102,2026-01-16,2026-01,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0103,2026-01-16,2026-01,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Quality not as expected,Replaced,0,250,1,250
+ORD-0104,2026-01-16,2026-01,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Returned,Quality not as expected,Replaced,0,300,1,300
+ORD-0105,2026-01-16,2026-01,Sports,WhatsApp,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0106,2026-01-16,2026-01,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0107,2026-01-16,2026-01,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0108,2026-01-17,2026-01,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0109,2026-01-17,2026-01,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0110,2026-01-17,2026-01,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0111,2026-01-17,2026-01,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0112,2026-01-17,2026-01,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0113,2026-01-17,2026-01,Fashion,Website,Running Sneakers,FAS-003,2,8998,Kept,,,0,0,0,0
+ORD-0114,2026-01-17,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0115,2026-01-17,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0116,2026-01-17,2026-01,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Returned,Quality not as expected,Refunded,4999,200,1,5199
+ORD-0117,2026-01-18,2026-01,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-0118,2026-01-18,2026-01,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0119,2026-01-18,2026-01,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0120,2026-01-18,2026-01,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-0121,2026-01-18,2026-01,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0122,2026-01-18,2026-01,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0123,2026-01-18,2026-01,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Returned,Defective/damaged,Refunded,1499,200,1,1699
+ORD-0124,2026-01-19,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Quality not as expected,Refunded,5999,250,1,6249
+ORD-0125,2026-01-19,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0126,2026-01-19,2026-01,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0127,2026-01-19,2026-01,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0128,2026-01-19,2026-01,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0129,2026-01-20,2026-01,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0130,2026-01-20,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,2,4998,Returned,Wrong size,Refunded,4998,250,1,5248
+ORD-0131,2026-01-20,2026-01,Fashion,Website,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0132,2026-01-20,2026-01,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Defective/damaged,Replaced,0,300,1,300
+ORD-0133,2026-01-20,2026-01,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0134,2026-01-21,2026-01,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0135,2026-01-21,2026-01,Electronics,Website,Wireless Earbuds,ELE-001,2,5998,Returned,Quality not as expected,Refunded,5998,250,1,6248
+ORD-0136,2026-01-21,2026-01,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0137,2026-01-21,2026-01,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0138,2026-01-22,2026-01,Beauty,Daraz,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-0139,2026-01-22,2026-01,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0140,2026-01-22,2026-01,Electronics,WhatsApp,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0141,2026-01-22,2026-01,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0142,2026-01-22,2026-01,Electronics,Facebook,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0143,2026-01-22,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0144,2026-01-22,2026-01,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0145,2026-01-22,2026-01,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Returned,Wrong size,Replaced,0,300,1,300
+ORD-0146,2026-01-22,2026-01,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0147,2026-01-22,2026-01,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0148,2026-01-23,2026-01,Beauty,Facebook,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0149,2026-01-23,2026-01,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0150,2026-01-23,2026-01,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0151,2026-01-23,2026-01,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Defective/damaged,Refunded,2499,200,1,2699
+ORD-0152,2026-01-23,2026-01,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Quality not as expected,Refunded,3999,200,1,4199
+ORD-0153,2026-01-23,2026-01,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0154,2026-01-23,2026-01,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Refunded,3999,200,1,4199
+ORD-0155,2026-01-23,2026-01,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0156,2026-01-23,2026-01,Home & Kitchen,WhatsApp,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0157,2026-01-23,2026-01,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0158,2026-01-23,2026-01,Sports,WhatsApp,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0159,2026-01-24,2026-01,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0160,2026-01-24,2026-01,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0161,2026-01-24,2026-01,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0162,2026-01-24,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0163,2026-01-24,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-0164,2026-01-24,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0165,2026-01-24,2026-01,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0166,2026-01-25,2026-01,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0167,2026-01-26,2026-01,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0168,2026-01-26,2026-01,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0169,2026-01-26,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0170,2026-01-26,2026-01,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0171,2026-01-26,2026-01,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0172,2026-01-26,2026-01,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0173,2026-01-27,2026-01,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0174,2026-01-27,2026-01,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Changed mind,Refunded,3999,300,1,4299
+ORD-0175,2026-01-27,2026-01,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0176,2026-01-27,2026-01,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0177,2026-01-27,2026-01,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0178,2026-01-27,2026-01,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Returned,Changed mind,Refunded,1799,250,1,2049
+ORD-0179,2026-01-27,2026-01,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0180,2026-01-27,2026-01,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Returned,Quality not as expected,Refunded,6999,250,1,7249
+ORD-0181,2026-01-28,2026-01,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0182,2026-01-28,2026-01,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0183,2026-01-28,2026-01,Electronics,Website,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-0184,2026-01-28,2026-01,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0185,2026-01-28,2026-01,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Returned,Wrong item sent,Replaced,0,200,1,200
+ORD-0186,2026-01-28,2026-01,Sports,WhatsApp,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0187,2026-01-28,2026-01,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Returned,Quality not as expected,Replaced,0,250,1,250
+ORD-0188,2026-01-28,2026-01,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0189,2026-01-28,2026-01,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0190,2026-01-29,2026-01,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0191,2026-01-29,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-0192,2026-01-29,2026-01,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0193,2026-01-30,2026-01,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0194,2026-01-30,2026-01,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0195,2026-01-30,2026-01,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0196,2026-01-30,2026-01,Electronics,WhatsApp,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0197,2026-01-30,2026-01,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0198,2026-01-30,2026-01,Home & Kitchen,Facebook,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0199,2026-01-31,2026-01,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Returned,Defective/damaged,Refunded,2999,250,1,3249
+ORD-0200,2026-01-31,2026-01,Electronics,Website,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-0201,2026-01-31,2026-01,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0202,2026-01-31,2026-01,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0203,2026-01-31,2026-01,Sports,Facebook,Yoga Mat 6mm,SPO-004,2,2998,Kept,,,0,0,0,0
+ORD-0204,2026-01-31,2026-01,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0205,2026-02-01,2026-02,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0206,2026-02-01,2026-02,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0207,2026-02-01,2026-02,Beauty,Website,Shampoo 500ml,BEA-003,2,1798,Kept,,,0,0,0,0
+ORD-0208,2026-02-01,2026-02,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0209,2026-02-02,2026-02,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0210,2026-02-02,2026-02,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong item sent,Refunded,2499,300,1,2799
+ORD-0211,2026-02-03,2026-02,Beauty,Facebook,Shampoo 500ml,BEA-003,2,1798,Kept,,,0,0,0,0
+ORD-0212,2026-02-03,2026-02,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Returned,Late delivery,Refunded,2499,250,1,2749
+ORD-0213,2026-02-03,2026-02,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0214,2026-02-03,2026-02,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0215,2026-02-03,2026-02,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0216,2026-02-03,2026-02,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0217,2026-02-03,2026-02,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0218,2026-02-03,2026-02,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-0219,2026-02-03,2026-02,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0220,2026-02-03,2026-02,Sports,Facebook,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0221,2026-02-04,2026-02,Beauty,WhatsApp,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0222,2026-02-04,2026-02,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0223,2026-02-04,2026-02,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Refunded,3999,200,1,4199
+ORD-0224,2026-02-04,2026-02,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0225,2026-02-04,2026-02,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0226,2026-02-05,2026-02,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0227,2026-02-05,2026-02,Beauty,WhatsApp,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0228,2026-02-06,2026-02,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0229,2026-02-06,2026-02,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Returned,Wrong item sent,Replaced,0,200,1,200
+ORD-0230,2026-02-06,2026-02,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0231,2026-02-06,2026-02,Fashion,Daraz,Running Sneakers,FAS-003,2,8998,Kept,,,0,0,0,0
+ORD-0232,2026-02-06,2026-02,Fashion,Website,Running Sneakers,FAS-003,2,8998,Returned,Wrong size,Refunded,8998,250,1,9248
+ORD-0233,2026-02-06,2026-02,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0234,2026-02-07,2026-02,Beauty,Website,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-0235,2026-02-07,2026-02,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0236,2026-02-07,2026-02,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Late delivery,Refunded,3999,250,1,4249
+ORD-0237,2026-02-08,2026-02,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0238,2026-02-08,2026-02,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Returned,Quality not as expected,Refunded,5999,200,1,6199
+ORD-0239,2026-02-08,2026-02,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0240,2026-02-08,2026-02,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Returned,Changed mind,Refunded,1799,250,1,2049
+ORD-0241,2026-02-08,2026-02,Home & Kitchen,WhatsApp,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0242,2026-02-08,2026-02,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0243,2026-02-09,2026-02,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0244,2026-02-09,2026-02,Beauty,Facebook,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0245,2026-02-09,2026-02,Electronics,Website,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0246,2026-02-09,2026-02,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0247,2026-02-09,2026-02,Home & Kitchen,WhatsApp,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0248,2026-02-09,2026-02,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0249,2026-02-09,2026-02,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0250,2026-02-09,2026-02,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,2,2998,Kept,,,0,0,0,0
+ORD-0251,2026-02-10,2026-02,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-0252,2026-02-10,2026-02,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0253,2026-02-10,2026-02,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0254,2026-02-10,2026-02,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0255,2026-02-10,2026-02,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0256,2026-02-10,2026-02,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0257,2026-02-11,2026-02,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0258,2026-02-11,2026-02,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0259,2026-02-11,2026-02,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0260,2026-02-12,2026-02,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0261,2026-02-12,2026-02,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0262,2026-02-12,2026-02,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Returned,Wrong size,Refunded,2499,200,1,2699
+ORD-0263,2026-02-12,2026-02,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Returned,Quality not as expected,Replaced,0,200,1,200
+ORD-0264,2026-02-12,2026-02,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0265,2026-02-12,2026-02,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0266,2026-02-12,2026-02,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0267,2026-02-12,2026-02,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0268,2026-02-12,2026-02,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0269,2026-02-12,2026-02,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0270,2026-02-13,2026-02,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0271,2026-02-13,2026-02,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Returned,Late delivery,Refunded,1899,200,1,2099
+ORD-0272,2026-02-13,2026-02,Beauty,Facebook,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0273,2026-02-13,2026-02,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0274,2026-02-13,2026-02,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0275,2026-02-14,2026-02,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0276,2026-02-14,2026-02,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0277,2026-02-15,2026-02,Beauty,Website,Lipstick Set (6 pcs),BEA-002,2,2598,Returned,Changed mind,Refunded,2598,250,1,2848
+ORD-0278,2026-02-15,2026-02,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0279,2026-02-15,2026-02,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0280,2026-02-15,2026-02,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0281,2026-02-15,2026-02,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Refunded,3999,300,1,4299
+ORD-0282,2026-02-15,2026-02,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0283,2026-02-15,2026-02,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0284,2026-02-15,2026-02,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0285,2026-02-15,2026-02,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0286,2026-02-15,2026-02,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0287,2026-02-15,2026-02,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,2,6998,Kept,,,0,0,0,0
+ORD-0288,2026-02-15,2026-02,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0289,2026-02-15,2026-02,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0290,2026-02-16,2026-02,Beauty,Facebook,Perfume 50ml,BEA-004,2,5998,Kept,,,0,0,0,0
+ORD-0291,2026-02-16,2026-02,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0292,2026-02-16,2026-02,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0293,2026-02-16,2026-02,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0294,2026-02-16,2026-02,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0295,2026-02-16,2026-02,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0296,2026-02-16,2026-02,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0297,2026-02-16,2026-02,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0298,2026-02-16,2026-02,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0299,2026-02-16,2026-02,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0300,2026-02-17,2026-02,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0301,2026-02-17,2026-02,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0302,2026-02-17,2026-02,Electronics,WhatsApp,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0303,2026-02-17,2026-02,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0304,2026-02-17,2026-02,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,2,7998,Returned,Wrong size,Refunded,7998,300,1,8298
+ORD-0305,2026-02-17,2026-02,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0306,2026-02-17,2026-02,Home & Kitchen,WhatsApp,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-0307,2026-02-17,2026-02,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0308,2026-02-17,2026-02,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0309,2026-02-18,2026-02,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0310,2026-02-18,2026-02,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0311,2026-02-18,2026-02,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Returned,Changed mind,Refunded,1499,200,1,1699
+ORD-0312,2026-02-18,2026-02,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0313,2026-02-19,2026-02,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0314,2026-02-19,2026-02,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0315,2026-02-19,2026-02,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0316,2026-02-19,2026-02,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0317,2026-02-19,2026-02,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0318,2026-02-20,2026-02,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0319,2026-02-20,2026-02,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0320,2026-02-20,2026-02,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Returned,Changed mind,Refunded,5999,250,1,6249
+ORD-0321,2026-02-20,2026-02,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0322,2026-02-20,2026-02,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0323,2026-02-20,2026-02,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0324,2026-02-20,2026-02,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Replaced,0,250,1,250
+ORD-0325,2026-02-20,2026-02,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0326,2026-02-21,2026-02,Beauty,Daraz,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-0327,2026-02-21,2026-02,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0328,2026-02-21,2026-02,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0329,2026-02-21,2026-02,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Changed mind,Refunded,4499,250,1,4749
+ORD-0330,2026-02-21,2026-02,Home & Kitchen,WhatsApp,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0331,2026-02-21,2026-02,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0332,2026-02-22,2026-02,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0333,2026-02-22,2026-02,Fashion,Website,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0334,2026-02-22,2026-02,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0335,2026-02-22,2026-02,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0336,2026-02-22,2026-02,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-0337,2026-02-22,2026-02,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0338,2026-02-23,2026-02,Electronics,Daraz,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-0339,2026-02-23,2026-02,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Changed mind,Refunded,3999,250,1,4249
+ORD-0340,2026-02-23,2026-02,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Refunded,3999,250,1,4249
+ORD-0341,2026-02-23,2026-02,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0342,2026-02-23,2026-02,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Returned,Wrong item sent,Replaced,0,200,1,200
+ORD-0343,2026-02-23,2026-02,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0344,2026-02-23,2026-02,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0345,2026-02-23,2026-02,Sports,Website,Football — Size 5,SPO-003,2,3998,Kept,,,0,0,0,0
+ORD-0346,2026-02-24,2026-02,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0347,2026-02-24,2026-02,Electronics,Website,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0348,2026-02-24,2026-02,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0349,2026-02-24,2026-02,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0350,2026-02-25,2026-02,Beauty,Facebook,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0351,2026-02-25,2026-02,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0352,2026-02-25,2026-02,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0353,2026-02-25,2026-02,Sports,WhatsApp,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0354,2026-02-25,2026-02,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0355,2026-02-26,2026-02,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0356,2026-02-26,2026-02,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0357,2026-02-26,2026-02,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0358,2026-02-26,2026-02,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0359,2026-02-27,2026-02,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0360,2026-02-27,2026-02,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0361,2026-02-27,2026-02,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0362,2026-02-27,2026-02,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0363,2026-02-27,2026-02,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0364,2026-02-27,2026-02,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0365,2026-02-28,2026-02,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0366,2026-02-28,2026-02,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-0367,2026-02-28,2026-02,Electronics,Daraz,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-0368,2026-02-28,2026-02,Fashion,Website,Running Sneakers,FAS-003,2,8998,Returned,Late delivery,Replaced,0,250,1,250
+ORD-0369,2026-02-28,2026-02,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0370,2026-02-28,2026-02,Sports,Website,Yoga Mat 6mm,SPO-004,2,2998,Kept,,,0,0,0,0
+ORD-0371,2026-03-01,2026-03,Beauty,WhatsApp,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0372,2026-03-01,2026-03,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0373,2026-03-01,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0374,2026-03-01,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0375,2026-03-01,2026-03,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,2,6998,Kept,,,0,0,0,0
+ORD-0376,2026-03-01,2026-03,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0377,2026-03-01,2026-03,Sports,Website,Gym Gloves,SPO-002,1,999,Returned,Wrong size,Refunded,999,250,1,1249
+ORD-0378,2026-03-01,2026-03,Sports,Website,Football — Size 5,SPO-003,1,1999,Returned,Changed mind,Refunded,1999,250,1,2249
+ORD-0379,2026-03-02,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0380,2026-03-02,2026-03,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0381,2026-03-02,2026-03,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Defective/damaged,Refunded,5999,250,1,6249
+ORD-0382,2026-03-02,2026-03,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-0383,2026-03-02,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0384,2026-03-02,2026-03,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Replaced,0,200,1,200
+ORD-0385,2026-03-02,2026-03,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Returned,Wrong item sent,Replaced,0,300,1,300
+ORD-0386,2026-03-02,2026-03,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0387,2026-03-03,2026-03,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0388,2026-03-03,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0389,2026-03-03,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-0390,2026-03-03,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0391,2026-03-04,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0392,2026-03-04,2026-03,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0393,2026-03-04,2026-03,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0394,2026-03-04,2026-03,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0395,2026-03-04,2026-03,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0396,2026-03-04,2026-03,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0397,2026-03-04,2026-03,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0398,2026-03-04,2026-03,Home & Kitchen,WhatsApp,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0399,2026-03-04,2026-03,Sports,Facebook,Gym Gloves,SPO-002,1,999,Returned,Changed mind,Refunded,999,300,1,1299
+ORD-0400,2026-03-04,2026-03,Sports,Facebook,Football — Size 5,SPO-003,2,3998,Kept,,,0,0,0,0
+ORD-0401,2026-03-04,2026-03,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0402,2026-03-05,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,2,5998,Returned,Wrong item sent,Refunded,5998,200,1,6198
+ORD-0403,2026-03-05,2026-03,Electronics,Website,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-0404,2026-03-05,2026-03,Electronics,Facebook,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0405,2026-03-05,2026-03,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0406,2026-03-05,2026-03,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0407,2026-03-05,2026-03,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0408,2026-03-05,2026-03,Home & Kitchen,Facebook,Wall Clock — Wooden,HOM-004,2,2998,Kept,,,0,0,0,0
+ORD-0409,2026-03-05,2026-03,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0410,2026-03-06,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0411,2026-03-06,2026-03,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0412,2026-03-06,2026-03,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0413,2026-03-06,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Changed mind,Refunded,3999,250,1,4249
+ORD-0414,2026-03-06,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,2,3598,Returned,Late delivery,Replaced,0,200,1,200
+ORD-0415,2026-03-06,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Returned,Changed mind,Refunded,1799,250,1,2049
+ORD-0416,2026-03-06,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-0417,2026-03-06,2026-03,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0418,2026-03-07,2026-03,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0419,2026-03-07,2026-03,Beauty,Website,Lipstick Set (6 pcs),BEA-002,2,2598,Kept,,,0,0,0,0
+ORD-0420,2026-03-07,2026-03,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0421,2026-03-07,2026-03,Electronics,Daraz,Smart Watch,ELE-003,2,11998,Returned,Quality not as expected,Replaced,0,200,1,200
+ORD-0422,2026-03-07,2026-03,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-0423,2026-03-07,2026-03,Fashion,Daraz,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0424,2026-03-07,2026-03,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0425,2026-03-07,2026-03,Sports,Website,Gym Gloves,SPO-002,2,1998,Kept,,,0,0,0,0
+ORD-0426,2026-03-08,2026-03,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0427,2026-03-08,2026-03,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong size,Refunded,2499,250,1,2749
+ORD-0428,2026-03-08,2026-03,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0429,2026-03-08,2026-03,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0430,2026-03-08,2026-03,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0431,2026-03-09,2026-03,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0432,2026-03-09,2026-03,Beauty,WhatsApp,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0433,2026-03-09,2026-03,Electronics,WhatsApp,LED Bulb Pack (4 pcs),ELE-004,1,999,Returned,Defective/damaged,Refunded,999,250,1,1249
+ORD-0434,2026-03-09,2026-03,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0435,2026-03-09,2026-03,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0436,2026-03-09,2026-03,Home & Kitchen,WhatsApp,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0437,2026-03-09,2026-03,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0438,2026-03-09,2026-03,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0439,2026-03-09,2026-03,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0440,2026-03-10,2026-03,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0441,2026-03-10,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Returned,Quality not as expected,Replaced,0,200,1,200
+ORD-0442,2026-03-10,2026-03,Electronics,Website,Power Bank 10000mAh,ELE-002,2,4998,Returned,Quality not as expected,Replaced,0,250,1,250
+ORD-0443,2026-03-10,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0444,2026-03-10,2026-03,Fashion,Website,Running Sneakers,FAS-003,2,8998,Returned,Wrong size,Refunded,8998,250,1,9248
+ORD-0445,2026-03-10,2026-03,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Returned,Defective/damaged,Refunded,4999,200,1,5199
+ORD-0446,2026-03-10,2026-03,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0447,2026-03-11,2026-03,Beauty,WhatsApp,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0448,2026-03-11,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0449,2026-03-11,2026-03,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0450,2026-03-11,2026-03,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0451,2026-03-11,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0452,2026-03-11,2026-03,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0453,2026-03-11,2026-03,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0454,2026-03-12,2026-03,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0455,2026-03-12,2026-03,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Quality not as expected,Refunded,5999,250,1,6249
+ORD-0456,2026-03-12,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0457,2026-03-12,2026-03,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0458,2026-03-12,2026-03,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0459,2026-03-12,2026-03,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0460,2026-03-12,2026-03,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0461,2026-03-12,2026-03,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0462,2026-03-13,2026-03,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0463,2026-03-13,2026-03,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0464,2026-03-13,2026-03,Electronics,WhatsApp,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0465,2026-03-13,2026-03,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0466,2026-03-13,2026-03,Electronics,WhatsApp,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0467,2026-03-13,2026-03,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong item sent,Replaced,0,300,1,300
+ORD-0468,2026-03-13,2026-03,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Refunded,3999,200,1,4199
+ORD-0469,2026-03-13,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0470,2026-03-13,2026-03,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0471,2026-03-13,2026-03,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Returned,Quality not as expected,Refunded,4999,250,1,5249
+ORD-0472,2026-03-13,2026-03,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0473,2026-03-13,2026-03,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Returned,Late delivery,Refunded,3499,200,1,3699
+ORD-0474,2026-03-13,2026-03,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0475,2026-03-14,2026-03,Beauty,Facebook,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0476,2026-03-14,2026-03,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0477,2026-03-14,2026-03,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong size,Refunded,2499,200,1,2699
+ORD-0478,2026-03-14,2026-03,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0479,2026-03-14,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Returned,Wrong size,Replaced,0,200,1,200
+ORD-0480,2026-03-15,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0481,2026-03-15,2026-03,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0482,2026-03-15,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Returned,Wrong size,Refunded,1799,200,1,1999
+ORD-0483,2026-03-15,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0484,2026-03-15,2026-03,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,2,9998,Returned,Late delivery,Replaced,0,200,1,200
+ORD-0485,2026-03-15,2026-03,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0486,2026-03-15,2026-03,Sports,Daraz,Gym Gloves,SPO-002,2,1998,Kept,,,0,0,0,0
+ORD-0487,2026-03-16,2026-03,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0488,2026-03-16,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-0489,2026-03-16,2026-03,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0490,2026-03-16,2026-03,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-0491,2026-03-16,2026-03,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0492,2026-03-17,2026-03,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0493,2026-03-17,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0494,2026-03-17,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0495,2026-03-17,2026-03,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0496,2026-03-18,2026-03,Electronics,Facebook,Smart Watch,ELE-003,1,5999,Returned,Late delivery,Replaced,0,300,1,300
+ORD-0497,2026-03-18,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0498,2026-03-18,2026-03,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0499,2026-03-18,2026-03,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Quality not as expected,Refunded,2499,200,1,2699
+ORD-0500,2026-03-18,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Returned,Late delivery,Refunded,3598,250,1,3848
+ORD-0501,2026-03-18,2026-03,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0502,2026-03-18,2026-03,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0503,2026-03-18,2026-03,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0504,2026-03-18,2026-03,Sports,Website,Football — Size 5,SPO-003,2,3998,Returned,Wrong size,Refunded,3998,250,1,4248
+ORD-0505,2026-03-18,2026-03,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Returned,Defective/damaged,Refunded,1499,250,1,1749
+ORD-0506,2026-03-19,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0507,2026-03-19,2026-03,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0508,2026-03-19,2026-03,Electronics,WhatsApp,Power Bank 10000mAh,ELE-002,1,2499,Returned,Changed mind,Refunded,2499,250,1,2749
+ORD-0509,2026-03-19,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0510,2026-03-19,2026-03,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Quality not as expected,Refunded,2499,200,1,2699
+ORD-0511,2026-03-19,2026-03,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0512,2026-03-19,2026-03,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0513,2026-03-19,2026-03,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0514,2026-03-20,2026-03,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0515,2026-03-20,2026-03,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0516,2026-03-20,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0517,2026-03-20,2026-03,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0518,2026-03-20,2026-03,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0519,2026-03-20,2026-03,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0520,2026-03-21,2026-03,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0521,2026-03-21,2026-03,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0522,2026-03-21,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0523,2026-03-21,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0524,2026-03-21,2026-03,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0525,2026-03-22,2026-03,Beauty,Facebook,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0526,2026-03-22,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0527,2026-03-22,2026-03,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0528,2026-03-22,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0529,2026-03-22,2026-03,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Changed mind,Refunded,2499,200,1,2699
+ORD-0530,2026-03-22,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0531,2026-03-22,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0532,2026-03-22,2026-03,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0533,2026-03-22,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-0534,2026-03-22,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Returned,Quality not as expected,Refunded,1799,200,1,1999
+ORD-0535,2026-03-22,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0536,2026-03-22,2026-03,Home & Kitchen,WhatsApp,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0537,2026-03-22,2026-03,Sports,Facebook,Yoga Mat 6mm,SPO-004,1,1499,Returned,Wrong size,Refunded,1499,300,1,1799
+ORD-0538,2026-03-23,2026-03,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0539,2026-03-23,2026-03,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Returned,Changed mind,Replaced,0,250,1,250
+ORD-0540,2026-03-23,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Returned,Late delivery,Refunded,999,200,1,1199
+ORD-0541,2026-03-23,2026-03,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Returned,Changed mind,Refunded,2499,300,1,2799
+ORD-0542,2026-03-23,2026-03,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Changed mind,Refunded,4499,250,1,4749
+ORD-0543,2026-03-23,2026-03,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0544,2026-03-23,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Returned,Wrong size,Refunded,3598,250,1,3848
+ORD-0545,2026-03-23,2026-03,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0546,2026-03-24,2026-03,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Returned,Late delivery,Refunded,2999,250,1,3249
+ORD-0547,2026-03-24,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-0548,2026-03-24,2026-03,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0549,2026-03-24,2026-03,Fashion,Facebook,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0550,2026-03-24,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0551,2026-03-24,2026-03,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0552,2026-03-24,2026-03,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Quality not as expected,Replaced,0,250,1,250
+ORD-0553,2026-03-24,2026-03,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-0554,2026-03-24,2026-03,Home & Kitchen,Facebook,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0555,2026-03-24,2026-03,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0556,2026-03-24,2026-03,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0557,2026-03-24,2026-03,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0558,2026-03-25,2026-03,Beauty,Website,Shampoo 500ml,BEA-003,2,1798,Returned,Changed mind,Refunded,1798,250,1,2048
+ORD-0559,2026-03-25,2026-03,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0560,2026-03-25,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0561,2026-03-25,2026-03,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0562,2026-03-25,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0563,2026-03-25,2026-03,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0564,2026-03-25,2026-03,Home & Kitchen,WhatsApp,Wall Clock — Wooden,HOM-004,2,2998,Kept,,,0,0,0,0
+ORD-0565,2026-03-26,2026-03,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0566,2026-03-26,2026-03,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0567,2026-03-26,2026-03,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0568,2026-03-26,2026-03,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0569,2026-03-26,2026-03,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0570,2026-03-27,2026-03,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0571,2026-03-27,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0572,2026-03-27,2026-03,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Changed mind,Refunded,4499,250,1,4749
+ORD-0573,2026-03-27,2026-03,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0574,2026-03-27,2026-03,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0575,2026-03-27,2026-03,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0576,2026-03-28,2026-03,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0577,2026-03-28,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-0578,2026-03-28,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0579,2026-03-28,2026-03,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-0580,2026-03-28,2026-03,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Returned,Changed mind,Refunded,1799,250,1,2049
+ORD-0581,2026-03-28,2026-03,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0582,2026-03-28,2026-03,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0583,2026-03-29,2026-03,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Returned,Late delivery,Replaced,0,200,1,200
+ORD-0584,2026-03-29,2026-03,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,2,2598,Kept,,,0,0,0,0
+ORD-0585,2026-03-29,2026-03,Electronics,Website,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-0586,2026-03-29,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0587,2026-03-30,2026-03,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0588,2026-03-30,2026-03,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0589,2026-03-30,2026-03,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0590,2026-03-30,2026-03,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0591,2026-03-30,2026-03,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0592,2026-03-30,2026-03,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0593,2026-03-30,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0594,2026-03-30,2026-03,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0595,2026-03-30,2026-03,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0596,2026-03-30,2026-03,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0597,2026-03-30,2026-03,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0598,2026-03-31,2026-03,Beauty,Facebook,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-0599,2026-03-31,2026-03,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0600,2026-03-31,2026-03,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Changed mind,Refunded,3999,200,1,4199
+ORD-0601,2026-03-31,2026-03,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Replaced,0,250,1,250
+ORD-0602,2026-03-31,2026-03,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Late delivery,Replaced,0,200,1,200
+ORD-0603,2026-03-31,2026-03,Fashion,Daraz,Kids Frock — Pink,FAS-004,2,3598,Returned,Late delivery,Refunded,3598,200,1,3798
+ORD-0604,2026-03-31,2026-03,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0605,2026-03-31,2026-03,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0606,2026-03-31,2026-03,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0607,2026-04-01,2026-04,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0608,2026-04-01,2026-04,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0609,2026-04-01,2026-04,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-0610,2026-04-01,2026-04,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0611,2026-04-01,2026-04,Fashion,Facebook,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0612,2026-04-01,2026-04,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,2,7998,Returned,Quality not as expected,Refunded,7998,200,1,8198
+ORD-0613,2026-04-01,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0614,2026-04-01,2026-04,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0615,2026-04-01,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0616,2026-04-01,2026-04,Sports,Website,Football — Size 5,SPO-003,2,3998,Kept,,,0,0,0,0
+ORD-0617,2026-04-02,2026-04,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0618,2026-04-02,2026-04,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0619,2026-04-02,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0620,2026-04-02,2026-04,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0621,2026-04-02,2026-04,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Refunded,4499,200,1,4699
+ORD-0622,2026-04-02,2026-04,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0623,2026-04-02,2026-04,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Returned,Quality not as expected,Refunded,6999,200,1,7199
+ORD-0624,2026-04-02,2026-04,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Returned,Late delivery,Replaced,0,250,1,250
+ORD-0625,2026-04-03,2026-04,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Quality not as expected,Refunded,2499,200,1,2699
+ORD-0626,2026-04-03,2026-04,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Refunded,4499,300,1,4799
+ORD-0627,2026-04-03,2026-04,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,2,2998,Kept,,,0,0,0,0
+ORD-0628,2026-04-03,2026-04,Home & Kitchen,WhatsApp,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0629,2026-04-03,2026-04,Sports,Daraz,Football — Size 5,SPO-003,2,3998,Kept,,,0,0,0,0
+ORD-0630,2026-04-04,2026-04,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0631,2026-04-04,2026-04,Beauty,Facebook,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0632,2026-04-04,2026-04,Beauty,Daraz,Perfume 50ml,BEA-004,2,5998,Kept,,,0,0,0,0
+ORD-0633,2026-04-04,2026-04,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0634,2026-04-04,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0635,2026-04-04,2026-04,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0636,2026-04-04,2026-04,Sports,WhatsApp,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0637,2026-04-05,2026-04,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0638,2026-04-05,2026-04,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Returned,Defective/damaged,Refunded,2499,250,1,2749
+ORD-0639,2026-04-05,2026-04,Electronics,Website,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-0640,2026-04-05,2026-04,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0641,2026-04-06,2026-04,Beauty,Facebook,Lipstick Set (6 pcs),BEA-002,2,2598,Returned,Quality not as expected,Refunded,2598,300,1,2898
+ORD-0642,2026-04-06,2026-04,Beauty,Facebook,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0643,2026-04-06,2026-04,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0644,2026-04-06,2026-04,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0645,2026-04-06,2026-04,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Wrong item sent,Refunded,4499,250,1,4749
+ORD-0646,2026-04-06,2026-04,Fashion,Facebook,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-0647,2026-04-06,2026-04,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0648,2026-04-06,2026-04,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-0649,2026-04-06,2026-04,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0650,2026-04-06,2026-04,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0651,2026-04-06,2026-04,Sports,Facebook,Cricket Bat — Kashmir Willow,SPO-001,2,6998,Kept,,,0,0,0,0
+ORD-0652,2026-04-07,2026-04,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0653,2026-04-07,2026-04,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0654,2026-04-07,2026-04,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0655,2026-04-08,2026-04,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0656,2026-04-08,2026-04,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Returned,Defective/damaged,Refunded,2999,250,1,3249
+ORD-0657,2026-04-08,2026-04,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0658,2026-04-08,2026-04,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0659,2026-04-08,2026-04,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0660,2026-04-08,2026-04,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0661,2026-04-09,2026-04,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0662,2026-04-09,2026-04,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Returned,Late delivery,Refunded,2999,200,1,3199
+ORD-0663,2026-04-09,2026-04,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0664,2026-04-09,2026-04,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Late delivery,Refunded,5999,250,1,6249
+ORD-0665,2026-04-09,2026-04,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Late delivery,Refunded,5999,250,1,6249
+ORD-0666,2026-04-09,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0667,2026-04-09,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0668,2026-04-09,2026-04,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0669,2026-04-09,2026-04,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0670,2026-04-10,2026-04,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0671,2026-04-10,2026-04,Beauty,Facebook,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0672,2026-04-10,2026-04,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0673,2026-04-10,2026-04,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0674,2026-04-10,2026-04,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Refunded,4499,250,1,4749
+ORD-0675,2026-04-10,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0676,2026-04-10,2026-04,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0677,2026-04-11,2026-04,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Returned,Wrong item sent,Refunded,2499,200,1,2699
+ORD-0678,2026-04-11,2026-04,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0679,2026-04-11,2026-04,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Returned,Quality not as expected,Refunded,1799,200,1,1999
+ORD-0680,2026-04-11,2026-04,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0681,2026-04-12,2026-04,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0682,2026-04-12,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0683,2026-04-12,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0684,2026-04-12,2026-04,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0685,2026-04-12,2026-04,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0686,2026-04-12,2026-04,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0687,2026-04-13,2026-04,Beauty,Daraz,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-0688,2026-04-13,2026-04,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0689,2026-04-13,2026-04,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0690,2026-04-13,2026-04,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0691,2026-04-13,2026-04,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0692,2026-04-14,2026-04,Beauty,WhatsApp,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0693,2026-04-14,2026-04,Electronics,Facebook,Smart Watch,ELE-003,2,11998,Returned,Changed mind,Refunded,11998,300,1,12298
+ORD-0694,2026-04-14,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0695,2026-04-14,2026-04,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Late delivery,Refunded,3999,250,1,4249
+ORD-0696,2026-04-14,2026-04,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0697,2026-04-14,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0698,2026-04-14,2026-04,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-0699,2026-04-14,2026-04,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0700,2026-04-14,2026-04,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,2,9998,Returned,Quality not as expected,Refunded,9998,200,1,10198
+ORD-0701,2026-04-14,2026-04,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,2,6998,Kept,,,0,0,0,0
+ORD-0702,2026-04-14,2026-04,Sports,Facebook,Gym Gloves,SPO-002,1,999,Returned,Wrong size,Replaced,0,300,1,300
+ORD-0703,2026-04-14,2026-04,Sports,Facebook,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0704,2026-04-14,2026-04,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0705,2026-04-15,2026-04,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0706,2026-04-15,2026-04,Electronics,Daraz,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-0707,2026-04-15,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0708,2026-04-15,2026-04,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong size,Refunded,2499,200,1,2699
+ORD-0709,2026-04-15,2026-04,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0710,2026-04-15,2026-04,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0711,2026-04-15,2026-04,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0712,2026-04-15,2026-04,Sports,Website,Yoga Mat 6mm,SPO-004,2,2998,Kept,,,0,0,0,0
+ORD-0713,2026-04-16,2026-04,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0714,2026-04-16,2026-04,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0715,2026-04-16,2026-04,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0716,2026-04-16,2026-04,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0717,2026-04-17,2026-04,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0718,2026-04-17,2026-04,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Replaced,0,250,1,250
+ORD-0719,2026-04-17,2026-04,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0720,2026-04-18,2026-04,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0721,2026-04-18,2026-04,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0722,2026-04-18,2026-04,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0723,2026-04-18,2026-04,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0724,2026-04-18,2026-04,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0725,2026-04-18,2026-04,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0726,2026-04-18,2026-04,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0727,2026-04-19,2026-04,Electronics,Website,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-0728,2026-04-19,2026-04,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0729,2026-04-19,2026-04,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0730,2026-04-19,2026-04,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0731,2026-04-19,2026-04,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0732,2026-04-20,2026-04,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0733,2026-04-20,2026-04,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0734,2026-04-20,2026-04,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0735,2026-04-20,2026-04,Sports,Facebook,Cricket Bat — Kashmir Willow,SPO-001,2,6998,Kept,,,0,0,0,0
+ORD-0736,2026-04-20,2026-04,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0737,2026-04-21,2026-04,Electronics,WhatsApp,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0738,2026-04-21,2026-04,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0739,2026-04-21,2026-04,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0740,2026-04-21,2026-04,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0741,2026-04-21,2026-04,Home & Kitchen,Facebook,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0742,2026-04-22,2026-04,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0743,2026-04-22,2026-04,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0744,2026-04-22,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0745,2026-04-22,2026-04,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0746,2026-04-22,2026-04,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Returned,Wrong size,Refunded,6999,250,1,7249
+ORD-0747,2026-04-22,2026-04,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Returned,Late delivery,Refunded,1999,200,1,2199
+ORD-0748,2026-04-22,2026-04,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Returned,Wrong item sent,Replaced,0,200,1,200
+ORD-0749,2026-04-23,2026-04,Beauty,Daraz,Shampoo 500ml,BEA-003,2,1798,Kept,,,0,0,0,0
+ORD-0750,2026-04-23,2026-04,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0751,2026-04-23,2026-04,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0752,2026-04-23,2026-04,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Returned,Late delivery,Replaced,0,200,1,200
+ORD-0753,2026-04-23,2026-04,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Returned,Changed mind,Refunded,2499,250,1,2749
+ORD-0754,2026-04-23,2026-04,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0755,2026-04-23,2026-04,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0756,2026-04-23,2026-04,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0757,2026-04-24,2026-04,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0758,2026-04-24,2026-04,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0759,2026-04-24,2026-04,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0760,2026-04-24,2026-04,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0761,2026-04-24,2026-04,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0762,2026-04-24,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0763,2026-04-25,2026-04,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0764,2026-04-25,2026-04,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Returned,Changed mind,Refunded,1299,250,1,1549
+ORD-0765,2026-04-25,2026-04,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0766,2026-04-25,2026-04,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0767,2026-04-25,2026-04,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Returned,Quality not as expected,Refunded,5999,200,1,6199
+ORD-0768,2026-04-25,2026-04,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0769,2026-04-25,2026-04,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong size,Refunded,2499,250,1,2749
+ORD-0770,2026-04-25,2026-04,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong item sent,Refunded,3999,250,1,4249
+ORD-0771,2026-04-25,2026-04,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0772,2026-04-25,2026-04,Fashion,Daraz,Running Sneakers,FAS-003,2,8998,Kept,,,0,0,0,0
+ORD-0773,2026-04-25,2026-04,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,2,2998,Kept,,,0,0,0,0
+ORD-0774,2026-04-25,2026-04,Sports,Facebook,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0775,2026-04-25,2026-04,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0776,2026-04-26,2026-04,Electronics,Facebook,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-0777,2026-04-26,2026-04,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0778,2026-04-26,2026-04,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Changed mind,Refunded,4499,250,1,4749
+ORD-0779,2026-04-26,2026-04,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0780,2026-04-26,2026-04,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0781,2026-04-27,2026-04,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0782,2026-04-27,2026-04,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0783,2026-04-27,2026-04,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0784,2026-04-27,2026-04,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0785,2026-04-27,2026-04,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0786,2026-04-27,2026-04,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Quality not as expected,Refunded,4499,200,1,4699
+ORD-0787,2026-04-27,2026-04,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Returned,Wrong size,Refunded,1799,250,1,2049
+ORD-0788,2026-04-27,2026-04,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0789,2026-04-27,2026-04,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0790,2026-04-27,2026-04,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0791,2026-04-27,2026-04,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0792,2026-04-27,2026-04,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Returned,Changed mind,Refunded,1499,250,1,1749
+ORD-0793,2026-04-28,2026-04,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0794,2026-04-28,2026-04,Electronics,Facebook,Wireless Earbuds,ELE-001,2,5998,Returned,Quality not as expected,Refunded,5998,300,1,6298
+ORD-0795,2026-04-28,2026-04,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Returned,Late delivery,Refunded,4999,300,1,5299
+ORD-0796,2026-04-28,2026-04,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0797,2026-04-28,2026-04,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0798,2026-04-29,2026-04,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0799,2026-04-29,2026-04,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0800,2026-04-29,2026-04,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0801,2026-04-29,2026-04,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0802,2026-04-29,2026-04,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,2,7998,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-0803,2026-04-29,2026-04,Fashion,WhatsApp,Running Sneakers,FAS-003,2,8998,Kept,,,0,0,0,0
+ORD-0804,2026-04-30,2026-04,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0805,2026-04-30,2026-04,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Returned,Quality not as expected,Refunded,2499,300,1,2799
+ORD-0806,2026-04-30,2026-04,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0807,2026-04-30,2026-04,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Refunded,4499,200,1,4699
+ORD-0808,2026-05-01,2026-05,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Returned,Late delivery,Refunded,899,200,1,1099
+ORD-0809,2026-05-01,2026-05,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0810,2026-05-01,2026-05,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0811,2026-05-01,2026-05,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Returned,Wrong size,Refunded,6999,250,1,7249
+ORD-0812,2026-05-01,2026-05,Sports,Daraz,Gym Gloves,SPO-002,2,1998,Kept,,,0,0,0,0
+ORD-0813,2026-05-01,2026-05,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0814,2026-05-02,2026-05,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0815,2026-05-02,2026-05,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0816,2026-05-02,2026-05,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0817,2026-05-02,2026-05,Fashion,Website,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0818,2026-05-02,2026-05,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Refunded,3999,200,1,4199
+ORD-0819,2026-05-02,2026-05,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-0820,2026-05-02,2026-05,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0821,2026-05-02,2026-05,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Returned,Changed mind,Refunded,1799,300,1,2099
+ORD-0822,2026-05-02,2026-05,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0823,2026-05-02,2026-05,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0824,2026-05-03,2026-05,Electronics,WhatsApp,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0825,2026-05-03,2026-05,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0826,2026-05-03,2026-05,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0827,2026-05-03,2026-05,Sports,Facebook,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0828,2026-05-04,2026-05,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0829,2026-05-04,2026-05,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0830,2026-05-04,2026-05,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0831,2026-05-04,2026-05,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0832,2026-05-04,2026-05,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-0833,2026-05-04,2026-05,Sports,WhatsApp,Yoga Mat 6mm,SPO-004,1,1499,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-0834,2026-05-05,2026-05,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0835,2026-05-05,2026-05,Fashion,Daraz,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0836,2026-05-05,2026-05,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0837,2026-05-05,2026-05,Fashion,Daraz,Kids Frock — Pink,FAS-004,2,3598,Returned,Changed mind,Refunded,3598,200,1,3798
+ORD-0838,2026-05-05,2026-05,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0839,2026-05-05,2026-05,Sports,Facebook,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0840,2026-05-06,2026-05,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0841,2026-05-06,2026-05,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0842,2026-05-06,2026-05,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0843,2026-05-06,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0844,2026-05-06,2026-05,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0845,2026-05-06,2026-05,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0846,2026-05-06,2026-05,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0847,2026-05-07,2026-05,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0848,2026-05-07,2026-05,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-0849,2026-05-08,2026-05,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0850,2026-05-08,2026-05,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0851,2026-05-08,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-0852,2026-05-08,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0853,2026-05-08,2026-05,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0854,2026-05-09,2026-05,Beauty,WhatsApp,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0855,2026-05-09,2026-05,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0856,2026-05-09,2026-05,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0857,2026-05-09,2026-05,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0858,2026-05-10,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0859,2026-05-10,2026-05,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0860,2026-05-10,2026-05,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0861,2026-05-10,2026-05,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0862,2026-05-10,2026-05,Sports,Website,Football — Size 5,SPO-003,2,3998,Returned,Wrong size,Replaced,0,250,1,250
+ORD-0863,2026-05-11,2026-05,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0864,2026-05-11,2026-05,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0865,2026-05-11,2026-05,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0866,2026-05-11,2026-05,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-0867,2026-05-12,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-0868,2026-05-12,2026-05,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0869,2026-05-13,2026-05,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0870,2026-05-13,2026-05,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0871,2026-05-13,2026-05,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-0872,2026-05-13,2026-05,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0873,2026-05-14,2026-05,Electronics,Daraz,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-0874,2026-05-14,2026-05,Electronics,Website,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-0875,2026-05-14,2026-05,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0876,2026-05-14,2026-05,Fashion,Website,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0877,2026-05-14,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0878,2026-05-14,2026-05,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0879,2026-05-14,2026-05,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Returned,Wrong size,Refunded,1799,250,1,2049
+ORD-0880,2026-05-15,2026-05,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0881,2026-05-15,2026-05,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0882,2026-05-15,2026-05,Home & Kitchen,WhatsApp,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0883,2026-05-15,2026-05,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0884,2026-05-15,2026-05,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0885,2026-05-16,2026-05,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0886,2026-05-16,2026-05,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0887,2026-05-16,2026-05,Fashion,Daraz,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0888,2026-05-16,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0889,2026-05-16,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0890,2026-05-16,2026-05,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0891,2026-05-16,2026-05,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0892,2026-05-16,2026-05,Sports,Daraz,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0893,2026-05-17,2026-05,Beauty,Facebook,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0894,2026-05-17,2026-05,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Returned,Defective/damaged,Replaced,0,300,1,300
+ORD-0895,2026-05-17,2026-05,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong item sent,Replaced,0,200,1,200
+ORD-0896,2026-05-17,2026-05,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-0897,2026-05-17,2026-05,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0898,2026-05-17,2026-05,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0899,2026-05-18,2026-05,Electronics,Website,Smart Watch,ELE-003,1,5999,Returned,Quality not as expected,Refunded,5999,250,1,6249
+ORD-0900,2026-05-18,2026-05,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0901,2026-05-18,2026-05,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0902,2026-05-18,2026-05,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0903,2026-05-18,2026-05,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0904,2026-05-18,2026-05,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0905,2026-05-19,2026-05,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0906,2026-05-19,2026-05,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0907,2026-05-19,2026-05,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0908,2026-05-19,2026-05,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0909,2026-05-19,2026-05,Home & Kitchen,WhatsApp,Bedsheet Set — King,HOM-002,1,2199,Returned,Quality not as expected,Refunded,2199,250,1,2449
+ORD-0910,2026-05-19,2026-05,Home & Kitchen,WhatsApp,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0911,2026-05-19,2026-05,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0912,2026-05-20,2026-05,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0913,2026-05-20,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0914,2026-05-20,2026-05,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0915,2026-05-20,2026-05,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0916,2026-05-20,2026-05,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0917,2026-05-21,2026-05,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0918,2026-05-21,2026-05,Beauty,Daraz,Perfume 50ml,BEA-004,2,5998,Kept,,,0,0,0,0
+ORD-0919,2026-05-21,2026-05,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0920,2026-05-21,2026-05,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0921,2026-05-21,2026-05,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-0922,2026-05-21,2026-05,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-0923,2026-05-22,2026-05,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0924,2026-05-22,2026-05,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0925,2026-05-23,2026-05,Beauty,Website,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0926,2026-05-23,2026-05,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0927,2026-05-23,2026-05,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0928,2026-05-23,2026-05,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,2,2998,Kept,,,0,0,0,0
+ORD-0929,2026-05-23,2026-05,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0930,2026-05-23,2026-05,Sports,Website,Yoga Mat 6mm,SPO-004,2,2998,Kept,,,0,0,0,0
+ORD-0931,2026-05-24,2026-05,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0932,2026-05-24,2026-05,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Returned,Changed mind,Refunded,4499,250,1,4749
+ORD-0933,2026-05-24,2026-05,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0934,2026-05-24,2026-05,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0935,2026-05-25,2026-05,Beauty,WhatsApp,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0936,2026-05-25,2026-05,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0937,2026-05-25,2026-05,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0938,2026-05-25,2026-05,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0939,2026-05-25,2026-05,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0940,2026-05-25,2026-05,Sports,Daraz,Gym Gloves,SPO-002,1,999,Returned,Changed mind,Refunded,999,200,1,1199
+ORD-0941,2026-05-26,2026-05,Beauty,Daraz,Lipstick Set (6 pcs),BEA-002,2,2598,Kept,,,0,0,0,0
+ORD-0942,2026-05-26,2026-05,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0943,2026-05-26,2026-05,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0944,2026-05-26,2026-05,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0945,2026-05-26,2026-05,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0946,2026-05-26,2026-05,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0947,2026-05-27,2026-05,Beauty,WhatsApp,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-0948,2026-05-27,2026-05,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0949,2026-05-27,2026-05,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0950,2026-05-27,2026-05,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0951,2026-05-27,2026-05,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0952,2026-05-27,2026-05,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-0953,2026-05-28,2026-05,Electronics,Daraz,Smart Watch,ELE-003,2,11998,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-0954,2026-05-28,2026-05,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Returned,Quality not as expected,Refunded,2499,300,1,2799
+ORD-0955,2026-05-28,2026-05,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Returned,Late delivery,Refunded,1799,200,1,1999
+ORD-0956,2026-05-29,2026-05,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0957,2026-05-29,2026-05,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Returned,Late delivery,Refunded,5999,250,1,6249
+ORD-0958,2026-05-29,2026-05,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong size,Refunded,2499,200,1,2699
+ORD-0959,2026-05-29,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0960,2026-05-29,2026-05,Home & Kitchen,WhatsApp,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0961,2026-05-29,2026-05,Sports,Daraz,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0962,2026-05-30,2026-05,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-0963,2026-05-30,2026-05,Electronics,Website,Smart Watch,ELE-003,2,11998,Returned,Defective/damaged,Refunded,11998,250,1,12248
+ORD-0964,2026-05-30,2026-05,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-0965,2026-05-30,2026-05,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Changed mind,Refunded,3999,250,1,4249
+ORD-0966,2026-05-30,2026-05,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0967,2026-05-30,2026-05,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0968,2026-05-30,2026-05,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0969,2026-05-31,2026-05,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0970,2026-05-31,2026-05,Electronics,Facebook,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-0971,2026-05-31,2026-05,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Returned,Wrong size,Refunded,999,250,1,1249
+ORD-0972,2026-05-31,2026-05,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-0973,2026-06-01,2026-06,Beauty,WhatsApp,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-0974,2026-06-01,2026-06,Beauty,WhatsApp,Perfume 50ml,BEA-004,1,2999,Returned,Quality not as expected,Refunded,2999,250,1,3249
+ORD-0975,2026-06-01,2026-06,Electronics,Daraz,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-0976,2026-06-01,2026-06,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-0977,2026-06-01,2026-06,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-0978,2026-06-01,2026-06,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0979,2026-06-01,2026-06,Sports,Facebook,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Returned,Wrong size,Refunded,3499,300,1,3799
+ORD-0980,2026-06-01,2026-06,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0981,2026-06-02,2026-06,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-0982,2026-06-02,2026-06,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0983,2026-06-02,2026-06,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0984,2026-06-02,2026-06,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0985,2026-06-02,2026-06,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,2,9998,Returned,Changed mind,Refunded,9998,200,1,10198
+ORD-0986,2026-06-02,2026-06,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0987,2026-06-02,2026-06,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-0988,2026-06-03,2026-06,Beauty,Facebook,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-0989,2026-06-03,2026-06,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-0990,2026-06-03,2026-06,Electronics,Facebook,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-0991,2026-06-03,2026-06,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,2,4998,Kept,,,0,0,0,0
+ORD-0992,2026-06-03,2026-06,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-0993,2026-06-03,2026-06,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Late delivery,Refunded,4499,200,1,4699
+ORD-0994,2026-06-03,2026-06,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0995,2026-06-03,2026-06,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-0996,2026-06-03,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-0997,2026-06-03,2026-06,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-0998,2026-06-03,2026-06,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-0999,2026-06-03,2026-06,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-1000,2026-06-04,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1001,2026-06-04,2026-06,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1002,2026-06-04,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1003,2026-06-04,2026-06,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1004,2026-06-04,2026-06,Sports,WhatsApp,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-1005,2026-06-04,2026-06,Sports,Facebook,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-1006,2026-06-05,2026-06,Beauty,WhatsApp,Lipstick Set (6 pcs),BEA-002,1,1299,Kept,,,0,0,0,0
+ORD-1007,2026-06-05,2026-06,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-1008,2026-06-05,2026-06,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1009,2026-06-05,2026-06,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Late delivery,Refunded,2499,200,1,2699
+ORD-1010,2026-06-05,2026-06,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1011,2026-06-05,2026-06,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-1012,2026-06-06,2026-06,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-1013,2026-06-06,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1014,2026-06-06,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Changed mind,Refunded,4499,250,1,4749
+ORD-1015,2026-06-06,2026-06,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-1016,2026-06-06,2026-06,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-1017,2026-06-07,2026-06,Beauty,Website,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-1018,2026-06-07,2026-06,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-1019,2026-06-07,2026-06,Beauty,WhatsApp,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-1020,2026-06-07,2026-06,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Returned,Wrong item sent,Replaced,0,200,1,200
+ORD-1021,2026-06-07,2026-06,Electronics,WhatsApp,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-1022,2026-06-07,2026-06,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1023,2026-06-07,2026-06,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1024,2026-06-07,2026-06,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1025,2026-06-07,2026-06,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-1026,2026-06-07,2026-06,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-1027,2026-06-07,2026-06,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-1028,2026-06-07,2026-06,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-1029,2026-06-07,2026-06,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1030,2026-06-07,2026-06,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-1031,2026-06-08,2026-06,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-1032,2026-06-08,2026-06,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-1033,2026-06-08,2026-06,Beauty,Facebook,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-1034,2026-06-08,2026-06,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1035,2026-06-08,2026-06,Electronics,Website,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-1036,2026-06-08,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Changed mind,Refunded,3999,250,1,4249
+ORD-1037,2026-06-08,2026-06,Fashion,Facebook,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1038,2026-06-08,2026-06,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-1039,2026-06-08,2026-06,Home & Kitchen,WhatsApp,Wall Clock — Wooden,HOM-004,1,1499,Returned,Changed mind,Refunded,1499,250,1,1749
+ORD-1040,2026-06-09,2026-06,Beauty,Website,Perfume 50ml,BEA-004,2,5998,Returned,Quality not as expected,Refunded,5998,250,1,6248
+ORD-1041,2026-06-10,2026-06,Beauty,WhatsApp,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-1042,2026-06-10,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1043,2026-06-10,2026-06,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1044,2026-06-10,2026-06,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-1045,2026-06-10,2026-06,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,2,7998,Returned,Late delivery,Replaced,0,200,1,200
+ORD-1046,2026-06-10,2026-06,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1047,2026-06-11,2026-06,Beauty,WhatsApp,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-1048,2026-06-11,2026-06,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1049,2026-06-11,2026-06,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1050,2026-06-11,2026-06,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1051,2026-06-11,2026-06,Electronics,Website,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-1052,2026-06-11,2026-06,Home & Kitchen,WhatsApp,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-1053,2026-06-11,2026-06,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,2,9998,Kept,,,0,0,0,0
+ORD-1054,2026-06-11,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1055,2026-06-11,2026-06,Sports,Daraz,Gym Gloves,SPO-002,1,999,Returned,Late delivery,Refunded,999,200,1,1199
+ORD-1056,2026-06-12,2026-06,Beauty,Facebook,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-1057,2026-06-12,2026-06,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1058,2026-06-12,2026-06,Home & Kitchen,Facebook,Wall Clock — Wooden,HOM-004,2,2998,Kept,,,0,0,0,0
+ORD-1059,2026-06-12,2026-06,Sports,Facebook,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-1060,2026-06-12,2026-06,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-1061,2026-06-13,2026-06,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-1062,2026-06-13,2026-06,Beauty,Daraz,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-1063,2026-06-13,2026-06,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1064,2026-06-13,2026-06,Fashion,WhatsApp,Men's Kurta — Navy,FAS-001,1,2499,Returned,Changed mind,Refunded,2499,250,1,2749
+ORD-1065,2026-06-13,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1066,2026-06-13,2026-06,Fashion,Facebook,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1067,2026-06-13,2026-06,Sports,Website,Football — Size 5,SPO-003,2,3998,Kept,,,0,0,0,0
+ORD-1068,2026-06-14,2026-06,Beauty,Daraz,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-1069,2026-06-14,2026-06,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-1070,2026-06-14,2026-06,Electronics,Daraz,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-1071,2026-06-14,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1072,2026-06-14,2026-06,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Returned,Quality not as expected,Refunded,4499,250,1,4749
+ORD-1073,2026-06-14,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Returned,Wrong size,Refunded,1499,250,1,1749
+ORD-1074,2026-06-14,2026-06,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-1075,2026-06-15,2026-06,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1076,2026-06-15,2026-06,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1077,2026-06-15,2026-06,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,2,1998,Kept,,,0,0,0,0
+ORD-1078,2026-06-15,2026-06,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1079,2026-06-15,2026-06,Fashion,WhatsApp,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1080,2026-06-16,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1081,2026-06-16,2026-06,Electronics,Facebook,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1082,2026-06-16,2026-06,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-1083,2026-06-16,2026-06,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-1084,2026-06-16,2026-06,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong size,Refunded,3999,200,1,4199
+ORD-1085,2026-06-16,2026-06,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1086,2026-06-16,2026-06,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-1087,2026-06-17,2026-06,Electronics,WhatsApp,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1088,2026-06-17,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1089,2026-06-17,2026-06,Sports,Website,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-1090,2026-06-17,2026-06,Sports,Daraz,Gym Gloves,SPO-002,2,1998,Kept,,,0,0,0,0
+ORD-1091,2026-06-18,2026-06,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-1092,2026-06-18,2026-06,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1093,2026-06-18,2026-06,Electronics,WhatsApp,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-1094,2026-06-18,2026-06,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1095,2026-06-18,2026-06,Electronics,Facebook,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1096,2026-06-18,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1097,2026-06-18,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1098,2026-06-18,2026-06,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-1099,2026-06-18,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Returned,Late delivery,Replaced,0,250,1,250
+ORD-1100,2026-06-19,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1101,2026-06-19,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1102,2026-06-19,2026-06,Electronics,WhatsApp,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1103,2026-06-19,2026-06,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1104,2026-06-19,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-1105,2026-06-19,2026-06,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1106,2026-06-19,2026-06,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Returned,Wrong size,Replaced,0,200,1,200
+ORD-1107,2026-06-19,2026-06,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1108,2026-06-19,2026-06,Home & Kitchen,Facebook,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-1109,2026-06-19,2026-06,Home & Kitchen,Facebook,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-1110,2026-06-19,2026-06,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-1111,2026-06-19,2026-06,Sports,WhatsApp,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-1112,2026-06-19,2026-06,Sports,Website,Gym Gloves,SPO-002,1,999,Kept,,,0,0,0,0
+ORD-1113,2026-06-19,2026-06,Sports,Daraz,Yoga Mat 6mm,SPO-004,2,2998,Kept,,,0,0,0,0
+ORD-1114,2026-06-20,2026-06,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1115,2026-06-20,2026-06,Electronics,Website,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-1116,2026-06-20,2026-06,Fashion,Facebook,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong item sent,Refunded,2499,300,1,2799
+ORD-1117,2026-06-20,2026-06,Fashion,Facebook,Women's Lawn 3pc Suit,FAS-002,1,3999,Returned,Wrong item sent,Refunded,3999,300,1,4299
+ORD-1118,2026-06-20,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1119,2026-06-20,2026-06,Fashion,Daraz,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Refunded,4499,200,1,4699
+ORD-1120,2026-06-20,2026-06,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Kept,,,0,0,0,0
+ORD-1121,2026-06-20,2026-06,Home & Kitchen,WhatsApp,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-1122,2026-06-20,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1123,2026-06-20,2026-06,Sports,Daraz,Yoga Mat 6mm,SPO-004,2,2998,Kept,,,0,0,0,0
+ORD-1124,2026-06-21,2026-06,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-1125,2026-06-21,2026-06,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-1126,2026-06-21,2026-06,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1127,2026-06-21,2026-06,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1128,2026-06-21,2026-06,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,2,7998,Kept,,,0,0,0,0
+ORD-1129,2026-06-21,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Kept,,,0,0,0,0
+ORD-1130,2026-06-21,2026-06,Fashion,WhatsApp,Kids Frock — Pink,FAS-004,1,1799,Returned,Late delivery,Replaced,0,250,1,250
+ORD-1131,2026-06-21,2026-06,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-1132,2026-06-22,2026-06,Electronics,Daraz,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1133,2026-06-22,2026-06,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1134,2026-06-22,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1135,2026-06-22,2026-06,Fashion,Website,Running Sneakers,FAS-003,2,8998,Kept,,,0,0,0,0
+ORD-1136,2026-06-22,2026-06,Home & Kitchen,Facebook,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1137,2026-06-23,2026-06,Beauty,Website,Shampoo 500ml,BEA-003,2,1798,Kept,,,0,0,0,0
+ORD-1138,2026-06-23,2026-06,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1139,2026-06-23,2026-06,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Returned,Defective/damaged,Replaced,0,200,1,200
+ORD-1140,2026-06-23,2026-06,Electronics,WhatsApp,Smart Watch,ELE-003,1,5999,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-1141,2026-06-23,2026-06,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1142,2026-06-23,2026-06,Home & Kitchen,Website,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-1143,2026-06-23,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1144,2026-06-23,2026-06,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-1145,2026-06-24,2026-06,Electronics,Daraz,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1146,2026-06-24,2026-06,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1147,2026-06-24,2026-06,Fashion,Website,Running Sneakers,FAS-003,1,4499,Returned,Wrong size,Refunded,4499,250,1,4749
+ORD-1148,2026-06-24,2026-06,Home & Kitchen,WhatsApp,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-1149,2026-06-24,2026-06,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-1150,2026-06-24,2026-06,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-1151,2026-06-24,2026-06,Sports,Daraz,Cricket Bat — Kashmir Willow,SPO-001,1,3499,Kept,,,0,0,0,0
+ORD-1152,2026-06-25,2026-06,Beauty,Website,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-1153,2026-06-25,2026-06,Beauty,Daraz,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-1154,2026-06-25,2026-06,Beauty,Website,Perfume 50ml,BEA-004,1,2999,Kept,,,0,0,0,0
+ORD-1155,2026-06-25,2026-06,Fashion,Daraz,Men's Kurta — Navy,FAS-001,2,4998,Returned,Late delivery,Refunded,4998,200,1,5198
+ORD-1156,2026-06-25,2026-06,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,2,13998,Kept,,,0,0,0,0
+ORD-1157,2026-06-25,2026-06,Sports,Website,Football — Size 5,SPO-003,1,1999,Kept,,,0,0,0,0
+ORD-1158,2026-06-26,2026-06,Beauty,Facebook,Face Serum 30ml,BEA-001,2,3798,Kept,,,0,0,0,0
+ORD-1159,2026-06-26,2026-06,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Kept,,,0,0,0,0
+ORD-1160,2026-06-26,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1161,2026-06-26,2026-06,Electronics,Facebook,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1162,2026-06-26,2026-06,Fashion,Website,Men's Kurta — Navy,FAS-001,1,2499,Kept,,,0,0,0,0
+ORD-1163,2026-06-26,2026-06,Home & Kitchen,WhatsApp,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-1164,2026-06-26,2026-06,Home & Kitchen,Daraz,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-1165,2026-06-26,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1166,2026-06-27,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1167,2026-06-27,2026-06,Electronics,WhatsApp,Smart Watch,ELE-003,2,11998,Kept,,,0,0,0,0
+ORD-1168,2026-06-27,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1169,2026-06-27,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1170,2026-06-27,2026-06,Fashion,Website,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1171,2026-06-27,2026-06,Home & Kitchen,Website,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-1172,2026-06-27,2026-06,Home & Kitchen,Daraz,Dinner Set (32 pcs),HOM-001,1,6999,Kept,,,0,0,0,0
+ORD-1173,2026-06-27,2026-06,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,2,4398,Kept,,,0,0,0,0
+ORD-1174,2026-06-28,2026-06,Electronics,Website,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1175,2026-06-28,2026-06,Electronics,Daraz,LED Bulb Pack (4 pcs),ELE-004,1,999,Kept,,,0,0,0,0
+ORD-1176,2026-06-28,2026-06,Fashion,Daraz,Kids Frock — Pink,FAS-004,1,1799,Kept,,,0,0,0,0
+ORD-1177,2026-06-28,2026-06,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Returned,Quality not as expected,Refunded,4999,200,1,5199
+ORD-1178,2026-06-28,2026-06,Home & Kitchen,Daraz,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1179,2026-06-28,2026-06,Sports,Daraz,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-1180,2026-06-28,2026-06,Sports,Website,Yoga Mat 6mm,SPO-004,1,1499,Kept,,,0,0,0,0
+ORD-1181,2026-06-29,2026-06,Beauty,Facebook,Face Serum 30ml,BEA-001,1,1899,Kept,,,0,0,0,0
+ORD-1182,2026-06-29,2026-06,Electronics,Daraz,Wireless Earbuds,ELE-001,1,2999,Kept,,,0,0,0,0
+ORD-1183,2026-06-29,2026-06,Electronics,Website,Power Bank 10000mAh,ELE-002,2,4998,Kept,,,0,0,0,0
+ORD-1184,2026-06-29,2026-06,Electronics,Facebook,Smart Watch,ELE-003,1,5999,Kept,,,0,0,0,0
+ORD-1185,2026-06-29,2026-06,Fashion,Daraz,Men's Kurta — Navy,FAS-001,1,2499,Returned,Wrong size,Refunded,2499,200,1,2699
+ORD-1186,2026-06-29,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1187,2026-06-29,2026-06,Fashion,Daraz,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1188,2026-06-29,2026-06,Fashion,WhatsApp,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1189,2026-06-29,2026-06,Home & Kitchen,Daraz,Non-stick Cookware Set,HOM-003,1,4999,Kept,,,0,0,0,0
+ORD-1190,2026-06-29,2026-06,Home & Kitchen,Website,Wall Clock — Wooden,HOM-004,1,1499,Kept,,,0,0,0,0
+ORD-1191,2026-06-30,2026-06,Beauty,Daraz,Shampoo 500ml,BEA-003,2,1798,Kept,,,0,0,0,0
+ORD-1192,2026-06-30,2026-06,Beauty,Website,Shampoo 500ml,BEA-003,1,899,Returned,Defective/damaged,Refunded,899,250,1,1149
+ORD-1193,2026-06-30,2026-06,Electronics,Website,Wireless Earbuds,ELE-001,2,5998,Kept,,,0,0,0,0
+ORD-1194,2026-06-30,2026-06,Electronics,Website,Power Bank 10000mAh,ELE-002,1,2499,Kept,,,0,0,0,0
+ORD-1195,2026-06-30,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,1,3999,Kept,,,0,0,0,0
+ORD-1196,2026-06-30,2026-06,Fashion,Website,Women's Lawn 3pc Suit,FAS-002,2,7998,Returned,Wrong item sent,Replaced,0,250,1,250
+ORD-1197,2026-06-30,2026-06,Fashion,Website,Kids Frock — Pink,FAS-004,2,3598,Returned,Defective/damaged,Replaced,0,250,1,250
+ORD-1198,2026-06-30,2026-06,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-1199,2026-06-30,2026-06,Home & Kitchen,Website,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0
+ORD-1200,2026-06-30,2026-06,Home & Kitchen,Facebook,Bedsheet Set — King,HOM-002,1,2199,Kept,,,0,0,0,0

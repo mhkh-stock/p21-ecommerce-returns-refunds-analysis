@@ -1,0 +1,7 @@
+reason,returns,pct_of_returns,refunded_revenue,return_shipping_cost,money_lost,pct_of_money_lost
+Wrong size,47,21.66,145956,11200,157156,25.51
+Quality not as expected,40,18.43,145163,9350,154513,25.08
+Changed mind,40,18.43,127256,9950,137206,22.27
+Late delivery,33,15.21,70776,7450,78226,12.7
+Defective/damaged,32,14.75,42887,7450,50337,8.17
+Wrong item sent,25,11.52,32490,6100,38590,6.26
